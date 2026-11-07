@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/maniflow-tb/commit/c04eab7fd7ee3b5e5240baac8808eb90f4d491b2",
       "git:hexsha": "c04eab7fd7ee3b5e5240baac8808eb90f4d491b2",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
