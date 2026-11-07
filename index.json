@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "maniflow-tb",
+  "versions": [
+    {
+      "commit": "c04eab7fd7ee3b5e5240baac8808eb90f4d491b2",
+      "tag": "",
+      "parsed_at": "2026-11-07T18:34:35.823583+00:00"
+    }
+  ]
+}
